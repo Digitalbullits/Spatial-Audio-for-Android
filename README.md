@@ -5,12 +5,12 @@ _Spatial Audio creates an immersive sound experience by simulating audio from al
 
 ---
 
-## **⚠️ DISCLAIMER
+## ⚠️ DISCLAIMER
 - Spatial audio blobs are owned by Google™.
 - The license specified here is for the systemless Module only, not for Google's Spatial Audio blobs.
 ---
 
-## ** Descriptions**
+## Descriptions
 
 **Google's Spatial Audio Port** is a systemless module that ports Google's spatial audio to any AOSP-based ROMs and possibly to other non-AOSP-based ROMs.
 
