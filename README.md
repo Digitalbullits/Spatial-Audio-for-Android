@@ -1,6 +1,6 @@
 # **✨ Google Spatial Audio Port** ✨
 
-![Project Logo]([https://via.placeholder.com/150](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bZdJI2frfQfmgWp_E4q_bgAAAA%26pid%3DApi&f=1&ipt=a1eb45a6fd5002161390321d2dbdbd89ec2c86985a9c6e22f37282a86d69df45&ipo=images))  
+![Project Logo]([[https://via.placeholder.com/150](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bZdJI2frfQfmgWp_E4q_bgAAAA%26pid%3DApi&f=1&ipt=a1eb45a6fd5002161390321d2dbdbd89ec2c86985a9c6e22f37282a86d69df45&ipo=images)](https://images.macrumors.com/t/ii0fuE7rGT9DbPRNuUAu082Ttqk=/1600x0/article-new/2021/03/Spatial-Audio-Feature.jpg))  
 _A seamless solution for [problem your project solves] — sophisticated, simple, and powerful._
 
 ---
